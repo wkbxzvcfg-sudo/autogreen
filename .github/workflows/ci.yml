@@ -19,8 +19,8 @@ jobs:
 
       - name: Set up Git configuration
         run: |
-          git config --local user.email "1497055242@qq.com"
-          git config --local user.name "Qi_YiJun"
+          git config --local user.email "wkbxzvcfg@gmail.com"
+          git config --local user.name "wkbxzvcfg-sudo"
 
       - name: Make changes
         run: |
